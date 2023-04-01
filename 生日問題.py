@@ -1,3 +1,9 @@
+#===============================================================
+# Lab     : Kdd 721
+# Name    : Yen-Wei-Liang
+# function: Bulls and Cows
+#===============================================================
+
 import datetime, random
 from tqdm import tqdm
 

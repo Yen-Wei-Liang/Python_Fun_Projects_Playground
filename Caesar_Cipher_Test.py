@@ -59,6 +59,3 @@ class CaesarCipherTest(unittest.TestCase):
         expected_result_25 = "NCHU EE KDD"
         result_25 = Caesar_Cipher().decrypt(message_25, key_25)
         self.assertEqual(expected_result_25, result_25)
-
-#if __name__ == '__main__':
-#    unittest.main()

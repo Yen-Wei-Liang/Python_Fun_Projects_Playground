@@ -45,7 +45,7 @@ python 1A1B.py
 ### 步驟 1：下載 Anaconda
 ![Anaconda](https://lennychen.com/wp-content/uploads/2022/02/%E4%B8%8B%E8%BC%89-1.png)
 
-#### 首先，你需要從 Anaconda 的官方網站下載適合你電腦作業系統的版本。在下載頁面上，你可以看到兩個不同的版本：Anaconda 和 Miniconda。Anaconda 是一個全面的Python發行版，包括了數據科#### 學和機器學習的相關包，而Miniconda則是一個更輕量的發行版，只包含了最基本的工具。在這裡，我們選擇下載 Anaconda，若是要使用在嵌入式系統建議安裝Miniconda。
+#### 首先，你需要從 Anaconda 的官方網站下載適合你電腦作業系統的版本。在下載頁面上，你可以看到兩個不同的版本：Anaconda 和 Miniconda。Anaconda 是一個全面的Python發行版，包括了數據科學和機器學習的相關包，而Miniconda則是一個更輕量的發行版，只包含了最基本的工具。在這裡，我們選擇下載 Anaconda，若是要使用在嵌入式系統建議安裝Miniconda。
 
 ### 步驟 2：安裝 Anaconda
 

@@ -40,9 +40,17 @@ python 1A1B.py
 ```
 
 
-### 五、設計函式解決問題
+### 五、設計函式解決問題 (Time_Complexity_Experience)
 1 + 2 - 3 + 4 - 5 + 6 - ... + / - N ，當 N =314159265358979
 
+```bash=
+python Time_Complexity_Experience.py
+```
+
+#### 簡單測試功能是否正確 Unit Test Caesar Cipher
+```bash=
+python Time_Complexity_Experience_Test.py
+```
 
 
 ### 六、抽卡問題

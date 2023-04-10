@@ -8,7 +8,7 @@
 ### 一、生日問題 (Birthday Paradox)
 生日問題是指最少需要幾人，當中兩人同生日的機率才會過半。答案是23人，所以30人的小學班級中兩人同生日的機率更高。對於60人或更多人，機率大於99%。這問題有時也稱生日悖論，但從引起邏輯矛盾的角度來說生日問題並非悖論，它稱作悖論只因這事實與一般直覺相牴觸而已。大多數人會認為23人中兩人同生日的機率應該遠小於一半。計算與此相關的機率稱為生日問題，在這個問題之後的數學理論已用於設計著名的密碼攻擊方法：生日攻擊。
 
-![Birthday Paradox](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Birthday_Paradox.svg/290px-Birthday_Paradox.svg.png)
+![Birthday Paradox](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Birthday_Paradox.svg/1280px-Birthday_Paradox.svg.png)
 
 
 ```bash=
@@ -20,7 +20,7 @@ python Birthday_Paradox.py
 ### 二、凱撒密碼 (Caesar Cipher)
 在這個數位時代，網絡安全已經成為了一個日益重要的問題。想要保護自己的隱私，學習密碼學技術已經成為了不可或缺的一部分。而凱撒密碼作為最古老也最基本的加密技術之一，是入門學習密碼學的最佳選擇。本文將詳細介紹凱撒密碼的原理與使用方法，讓你輕鬆掌握基本的加密技術，開啟你的網絡安全之旅。
 
-![Caesar Cipher](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Caesar_cipher_left_shift_of_3.svg/220px-Caesar_cipher_left_shift_of_3.svg.png)
+![Caesar Cipher](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Caesar_cipher_left_shift_of_3.svg/1280px-Caesar_cipher_left_shift_of_3.svg.png)
 
 ```bash=
 python Caesar_Cipher.py

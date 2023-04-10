@@ -8,6 +8,9 @@
 ### 一、生日問題 (Birthday Paradox)
 生日問題是指最少需要幾人，當中兩人同生日的機率才會過半。答案是23人，所以30人的小學班級中兩人同生日的機率更高。對於60人或更多人，機率大於99%。這問題有時也稱生日悖論，但從引起邏輯矛盾的角度來說生日問題並非悖論，它稱作悖論只因這事實與一般直覺相牴觸而已。大多數人會認為23人中兩人同生日的機率應該遠小於一半。計算與此相關的機率稱為生日問題，在這個問題之後的數學理論已用於設計著名的密碼攻擊方法：生日攻擊。
 
+![Birthday Paradox](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Birthday_Paradox.svg/290px-Birthday_Paradox.svg.png)
+
+
 ```bash=
 pip install -r requirements.txt
 python Birthday_Paradox.py
@@ -16,6 +19,8 @@ python Birthday_Paradox.py
 
 ### 二、凱撒密碼 (Caesar Cipher)
 在這個數位時代，網絡安全已經成為了一個日益重要的問題。想要保護自己的隱私，學習密碼學技術已經成為了不可或缺的一部分。而凱撒密碼作為最古老也最基本的加密技術之一，是入門學習密碼學的最佳選擇。本文將詳細介紹凱撒密碼的原理與使用方法，讓你輕鬆掌握基本的加密技術，開啟你的網絡安全之旅。
+
+![Caesar Cipher](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Caesar_cipher_left_shift_of_3.svg/220px-Caesar_cipher_left_shift_of_3.svg.png)
 
 ```bash=
 python Caesar_Cipher.py
@@ -33,8 +38,10 @@ python Caesar_Cipher_Test.py
 python Ultimate_Code.py
 ```
 
-### 四、猜數字 (1A1B)
+### 四、猜數字 (1A2B)
 挑戰你的謎底猜測技能！經典猜數字遊戲，讓你在線上與朋友一決高下。你可以通過直覺和邏輯逐漸逼近謎底，每次猜測後根據提示調整策略。這個遊戲需要你動腦筋，提高數字辨識能力，讓你愉快地度過休閒時光。來挑戰一下吧！
+
+![Bulls and Cows](https://upload.wikimedia.org/wikipedia/commons/d/d4/4digits_0.4_screenshot.png)
 
 ```bash=
 python 1A1B.py

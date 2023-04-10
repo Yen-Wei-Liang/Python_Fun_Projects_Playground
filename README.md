@@ -126,13 +126,22 @@ python Kdd_Game.py
 ##### 2.選擇你要安裝的語言，點選「Next」。
 ##### 3.閱讀使用協議，接受後點選「Next」。
 ##### 4.選擇你要安裝的安裝路徑，點選「Next」。建議使用預設路徑。
+
+![Anaconda_path](https://docs.anaconda.com/_images/win-install-destination.png)
+
+
 ##### 5.選擇你要安裝的用戶，點選「Next」。建議使用預設用戶。
 ##### 6.選擇你要安裝的組件，點選「Next」。如果你不確定，建議使用預設組件。
-##### 7.選擇你要安裝的開始菜單項目，點選「Next」。
-##### 8.安裝開始，點選「Install」。
-##### 9.安裝完成後，點選「Next」。
-##### 10.建議勾選「Learn more about Anaconda Cloud」和「Learn how to get started with Anaconda」，然後點選「Finish」。
 
+##### 7.選擇你要安裝的開始菜單項目，點選「Next」。
+
+##### 8.安裝開始，點選「Install」(兩個都勾選)。
+![Anaconda_options](https://docs.anaconda.com/_images/win-install-options.png)
+
+##### 9.安裝完成後，點選「Next」。
+![Anaconda_next](https://docs.anaconda.com/_images/win-install-options.png)
+##### 10.建議勾選「Learn more about Anaconda Cloud」和「Learn how to get started with Anaconda」，然後點選「Finish」。
+![Anaconda_next](https://docs.anaconda.com/_images/win-install-complete.png)
 ### 步驟 3：使用 Anaconda
 
 #### 1.安裝完成後，你可以開始使用 Anaconda 中的 Python 環境和工具了。你可以在終端機中輸入以下命令啟動 Anaconda Navigator：
@@ -140,6 +149,8 @@ python Kdd_Game.py
 ```=bash
 anaconda-navigator
 ```
+![Anaconda_start](https://docs.anaconda.com/_images/nav-tabs.png)
+
 
 #### 2.如果你需要安裝其他 Python 套件，可以使用 Anaconda 中的 conda 命令進行安裝。例如，如果你想要安裝 numpy 套件，可以在終端機中輸入以下命令：
 
@@ -163,6 +174,11 @@ conda create -n 虛擬環境名稱
 ```=bash
 conda activate 虛擬環境名稱
 ```
+
+##### 若使用GUI如下
+
+![Anaconda_start_GUI](https://docs.anaconda.com/_images/nav-env.png)
+
 
 #### 5.要退出環境，可以在終端機中輸入以下命令：
 
